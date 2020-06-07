@@ -12,6 +12,7 @@ A ideia desse projeto foi feita pensando na Semana do Meio Ambiente. Ecoleta é 
 
 ## Capturas de tela do projeto
 ![website](https://user-images.githubusercontent.com/51159478/83974765-18209180-a8c6-11ea-8c95-0730f72b9994.png)
+![gif-mobile](https://user-images.githubusercontent.com/51159478/83975273-6edb9a80-a8c9-11ea-9885-95841930d672.gif)
 
 
 ## :information_source: Instalação
